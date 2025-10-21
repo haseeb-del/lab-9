@@ -1,4 +1,4 @@
-function showMessage()
+function showMessage() 
 {
-alert("You clicked the button! JavaScript is now working.");
+    alert("You clicked the button! JavaScript is now working.");
 }
